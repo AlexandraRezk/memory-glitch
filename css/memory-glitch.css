@@ -1,8 +1,8 @@
 /*Please see this tutorial by Matt Walker for how this game is made: http://www.my-html-codes.com/game-using-css3-animation*/
-*{
+/**{
     padding: 0;
     margin: 0;
-}
+}*/
 
 body{
     text-align: center;
