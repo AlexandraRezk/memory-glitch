@@ -11,6 +11,19 @@ body{
     font-family: myriad pro;
 }
 
+a{
+    color: white;
+}
+
+a:hover{
+    color: blue;
+}
+
+
+a:visited{
+    color:white;
+}
+
 #gameStats{
     /*background: #001711;*/
     background: #224666;
